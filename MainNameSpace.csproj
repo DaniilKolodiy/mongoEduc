@@ -54,8 +54,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="mClicntmDBMcol.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Classes2w\DocRepres.cs" />
+    <Compile Include="Classes2w\mClicntmDBMcol.cs" />
+    <Compile Include="Classes2w\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
