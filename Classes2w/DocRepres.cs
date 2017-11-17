@@ -9,7 +9,7 @@ namespace ConsoleApp1.Classes2w
 {
     class DocRepres
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             MainAsync(args).Wait();
             Console.WriteLine("Press Enter");

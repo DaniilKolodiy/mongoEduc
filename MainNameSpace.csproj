@@ -56,7 +56,10 @@
   <ItemGroup>
     <Compile Include="Classes2w\DocRepres.cs" />
     <Compile Include="Classes2w\mClicntmDBMcol.cs" />
+    <Compile Include="Classes2w\PocoModels.cs" />
     <Compile Include="Classes2w\Program.cs" />
+    <Compile Include="Models\Person.cs" />
+    <Compile Include="Models\Pet.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
