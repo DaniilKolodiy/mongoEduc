@@ -8,7 +8,7 @@ using MongoDB.Bson.Serialization.Attributes;
 
 namespace ConsoleApp1.Models
 {
-    class Person
+    public class  Person
     {
         public ObjectId Id { get; set; }
         [BsonElement("name")]

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1.Models
 {
-    class Pet
+    public class Pet
     {
         public string Name { get; set; }
         public string Type { get; set; }
